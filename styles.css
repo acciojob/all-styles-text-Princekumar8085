@@ -1,11 +1,9 @@
-main{
+
+#heading{
 	width: 200px;
 	background-color: purple;
 	border-left: 5px green solid;	
-	padding: 10px;
-}
-#heading{
-	
+	padding: 10px;	
 	font-size: 20px;
 	color: white;
 	text-decoration: underline;
